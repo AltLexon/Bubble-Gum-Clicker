@@ -4,8 +4,8 @@
 /Project.rbxm
 /src
 /.gitignore
-/.aftman.toml
-/.default.project.json
+/aftman.toml
+/default.project.json
 /sourcemap.json
 
 # Roblox Studio lock files
