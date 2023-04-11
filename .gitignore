@@ -3,10 +3,9 @@
 /run.lua
 /Project.rbxm
 /src
-/.gitignore
 /aftman.toml
-/default.project.json
 /sourcemap.json
+/default.project.json
 
 # Roblox Studio lock files
 /*.rbxlx.lock
