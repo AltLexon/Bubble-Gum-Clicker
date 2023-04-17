@@ -7,5 +7,5 @@ local Creator, Repo, Name = 'AltLexon', 'Bubble-Gum-Clicker', 'Script.lua'
 
 local url = string.format('https://raw.githubusercontent.com/%s/%s/master/%s', Creator, Repo, Name)
 
-loadstring(url)()
+loadstring(game:HttpGetAsync(url))()
 ```
