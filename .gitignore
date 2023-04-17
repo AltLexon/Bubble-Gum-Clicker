@@ -1,11 +1,13 @@
 # Project place file
 /run.lua
-/Project.rbxm
-/src
 /aftman.toml
 /sourcemap.json
 /default.project.json
+
+# Custom Projects
 /.gitignore
+/src
+/Project.rbxm
 
 # Roblox Studio lock files
 /*.rbxlx.lock
