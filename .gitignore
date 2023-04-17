@@ -6,6 +6,7 @@
 /aftman.toml
 /sourcemap.json
 /default.project.json
+/.gitignore
 
 # Roblox Studio lock files
 /*.rbxlx.lock
